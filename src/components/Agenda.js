@@ -11,13 +11,9 @@ const Agenda = () => {
         <div className="col-12 col-xl-5 mx-3 info-personal">
           <h3>Conexiones de agenda para hoy</h3>
           <div className="agenda-table">
-            <table className="table table-hover">
+            <table className="table table-striped">
               <thead>
-                <tr>
-                  <th scope="col">#</th>
-                  <th scope="col">First</th>
-                  <th scope="col">Last</th>
-                </tr>
+                
               </thead>
               <tbody>
                 {!loading &&

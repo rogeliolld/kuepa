@@ -12,7 +12,7 @@ const Menu = () => {
                             </a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="/#">
+                            <a className="nav-link active" href="/#">
                                 <i className="fas fa-clipboard-list"></i>
                             </a>
                         </li>
@@ -35,7 +35,7 @@ const Menu = () => {
                         </li>
                         <li className="nav-item">
                             <a className="nav-link" href="/#">
-                                <span data-feather="file-text"></span> Last quarter
+                                <span data-feather="file-text"></span>
                             </a>
                         </li>
                     </ul>
