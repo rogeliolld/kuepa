@@ -24,5 +24,4 @@ La aplicación está lista para ser desplegada!
 ## Apis Utilizada
 https://docs.opendota.com/#tag/pro-players 
 
-https://docs.opendota.com/#tag/players%2Fpaths%2F~1players~1%7Baccount_id%
-7D%2Fget 
+https://docs.opendota.com/#tag/players%2Fpaths%2F~1players~1%7Baccount_id%7D%2Fget 
